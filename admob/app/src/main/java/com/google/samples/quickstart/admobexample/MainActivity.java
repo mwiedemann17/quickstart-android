@@ -15,6 +15,7 @@
  */
 package com.google.samples.quickstart.admobexample;
 
+import com.google.samples.quickstart.admobexample.R;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.VisibleForTesting;
